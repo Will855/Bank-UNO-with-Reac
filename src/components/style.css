@@ -1,0 +1,74 @@
+body {
+  background-color: #1b1c1e;
+  color: #b1c1e1;
+}
+/* Navbar */
+.font-color {
+  color: #b1c1e1;
+}
+.navbar-nav {
+  gap: 15px;
+}
+#buttonHeader {
+  color: #20c997;
+}
+#buttonHeader:hover {
+  color: #fff;
+}
+.links:hover {
+  color: #f1f1f1;
+  font-weight: 500;
+}
+#btnStyle {
+  color: #99ff61;
+}
+/* Header */
+.title-header {
+  font-size: 70px;
+}
+
+/* Service, Feature*/
+.padding-top-feature {
+  padding-top: 15%;
+}
+
+.padding-top-services {
+  padding-top: 13%;
+}
+/* Cards */
+.title-card-feature {
+  color: #99ff61;
+}
+.h2-titleCard {
+  font-size: 50px;
+}
+.titleSection-titleCard {
+  text-transform: uppercase;
+  word-spacing: 3px;
+}
+/* Feature */
+/* background-color: #1b755a;
+  color: #fff;
+  font-size: 40px;
+  cursor: pointer;
+/* Formulario */
+.modalForm {
+  background-color: #1b1c1e;
+}
+.modalheader {
+  padding: 20px 20px 20px;
+  text-align: center;
+}
+.modalfooter {
+  display: flex;
+  justify-content: flex-end;
+  gap: 20px;
+  padding: 20px;
+}
+.btnForm {
+  background: #12ac12;
+}
+.btnForm:hover {
+  background: #12ac12;
+  color: #1b1c1e;
+}
